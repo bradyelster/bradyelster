@@ -5,6 +5,7 @@ Physics PhD student
 -------------------
 
 I study the physics of burning plasma🔥where I make new analytical models and test them with computer simulations.
+My work uses fluid models of plasma (MHD) to magnetic reconnection events inside fusion reactors.
 
 * 🌍  I'm based in Auburn, Alabama
 * ✉️  You can contact me at [belster@auburn.edu](mailto:belster@auburn.edu)
