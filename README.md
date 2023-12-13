@@ -11,10 +11,6 @@ I study the physics of burning plasma🔥where I make new analytical models and 
 * 🧠  I'm learning PDE methods, CUDA & MPI parallelization, machine learning (PyTorch)
 * 🤝  I'm open to collaborating on Python-based scientific computing projects
 
-<a href="https://www.x.com/bradyelster" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/bradyelster?logo=twitter&style=for-the-badge&color=a855f7&labelColor=22272e"
-/></a>
-
 ### Skills
 
 
@@ -26,12 +22,6 @@ src="https://img.shields.io/twitter/follow/bradyelster?logo=twitter&style=for-th
 ### Socials
 
 <p align="left"> <a href="https://discord.com/users/brady9276" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/bradyelster" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/bradyelster" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> <a href="https://www.stackoverflow.com/users/30131058/belster12" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /> </picture> </a> <a href="https://www.x.com/bradyelster" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /> </picture> </a></p>
-
-### Badges
-
-<b>Top Repositories</b>
-
-<div width="100%" align="center"><a href="https://github.com/bradyelster/dedalus" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=bradyelster&repo=dedalus&title_color=facc15&text_color=ffffff&icon_color=a855f7&bg_color=22272e&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
 ### Support Me
 
