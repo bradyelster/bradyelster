@@ -26,8 +26,5 @@ My work uses fluid models of plasma (MHD) to study magnetic reconnection.
 
 ### Support Me
 
-<ul style="list-style-type: none; margin: 0;">
+<p align="left"> <a href="https://www.ko-fi.com/bradyelster"><img src="https://storage.ko-fi.com/cdn/kofi2.png?v=3" width="150"/> </a> </p>
 
-<li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.ko-fi.com/bradyelster"><img src="https://storage.ko-fi.com/cdn/kofi2.png?v=3" width="150"/></a></li>
-
-</ul>
