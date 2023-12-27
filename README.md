@@ -4,13 +4,13 @@ Hi 👋 My name is Brady Elster
 Physics PhD student
 -------------------
 
-I study the physics of burning plasma🔥where I make new analytical models and test them with computer simulations.
-My work uses fluid models of plasma (MHD) to magnetic reconnection events inside fusion reactors.
+I study the physics of burning plasma🔥 where I make new analytical models and test them with computer simulations.
+My work uses fluid models of plasma (MHD) to study magnetic reconnection.
 
 * 🌍  I'm based in Auburn, Alabama
 * ✉️  You can contact me at [belster@auburn.edu](mailto:belster@auburn.edu)
-* 🧠  I'm learning PDE methods, CUDA & MPI parallelization, machine learning (PyTorch)
-* 🤝  I'm open to collaborating on Python-based scientific computing projects
+* 🧠  I'm learning PDE solvers, CPU & GPU parallelization, machine learning (PyTorch)
+* 🤝  I'm open to collaborating on Python-based scientific computing & data science projects
 
 ### Skills
 
