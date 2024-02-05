@@ -5,12 +5,12 @@ Physics PhD student
 -------------------
 
 I study the physics of burning plasma🔥 where I make new analytical models and test them with computer simulations.
-My work uses fluid models of plasma (MHD) to study magnetic reconnection.
+My work uses fluid models of plasma (MHD) to study the infamous resistive tearing instability.
 
 * 🌍  I'm based in Auburn, Alabama
 * ✉️  You can contact me at [belster@auburn.edu](mailto:belster@auburn.edu)
-* 🧠  I'm learning PDE solvers, CPU & GPU parallelization, machine learning (PyTorch)
-* 🤝  I'm open to collaborating on Python-based scientific computing & data science projects
+* 🧠  I'm learning PDE solving techniques (Finite Difference, Spectral, PINNs), GPU-based code (CUDA), machine learning (PyTorch)
+* 🤝  I'm open to collaborating on Mojo, Julia, and Python-based scientific computing & data science projects
 
 ### Skills
 
@@ -18,7 +18,6 @@ My work uses fluid models of plasma (MHD) to study magnetic reconnection.
 <p align="left">
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://www.r-project.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/rlang-colored.svg" width="36" height="36" alt="rlang" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a><a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/pytorch-colored.svg" width="36" height="36" alt="PyTorch" /></a>
 </p>
-
 
 
 ### Socials
