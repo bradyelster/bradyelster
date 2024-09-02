@@ -12,6 +12,8 @@ My work uses fluid models of plasma (MHD) to study the infamous resistive tearin
 * 🧠  I'm learning PDE solving techniques (Finite Difference, Spectral, PINNs), GPU-based code (CUDA), machine learning (PyTorch)
 * 🤝  I'm open to collaborating on Mojo, Julia, and Python-based scientific computing & data science projects
 
+Learn more about me and what I do [here](https://bradyelster.github.io/).
+
 ### Skills
 
 
