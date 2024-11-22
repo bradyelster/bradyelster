@@ -14,19 +14,20 @@ My work uses fluid models of plasma (MHD) to study the resistive tearing instabi
 
 Learn more about me and what I do [here](https://bradyelster.github.io/) on my personal webpage.
 
+### LeetCode
+<img src="https://leetcard.jacoblin.cool/belster12?theme=light&font=Lato&ext=contest" alt="LeetCode Stats" width="350"/>
+
 ### Skills
 
-<p align="left">
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://www.r-project.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/rlang-colored.svg" width="36" height="36" alt="rlang" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a><a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/pytorch-colored.svg" width="36" height="36" alt="PyTorch" /></a>
-</p>
-
+[![lighticons](https://skillicons.dev/icons?i=py,julia,r,linux,rust,fortran,git&theme=light)](https://skillicons.dev)
+[![darkicons](https://skillicons.dev/icons?i=github)](https://skillicons.dev)
 
 ### Socials
 
 <p align="left">
-<a href="https://twitter.com/bradyelster" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bradyelster" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/bradyelster" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bradyelster" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/23090617/belster12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="23090617/belster12" height="30" width="40" /></a>
+<a href="https://twitter.com/bradyelster" target="blank"><img align="center" src="https://skillicons.dev/icons?i=twitter" alt="bradyelster"/></a>
+<a href="https://linkedin.com/in/bradyelster" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="bradyelster"/></a>
+<a href="https://stackoverflow.com/users/23090617/belster12" target="blank"><img align="center" src="https://skillicons.dev/icons?i=stackoverflow&theme=light" alt="23090617/belster12" /></a>
 </p>
 
 ### Support Me
