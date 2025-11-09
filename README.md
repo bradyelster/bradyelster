@@ -5,14 +5,15 @@ Physics PhD student
 -------------------
 
 I study the physics of burning plasma🔥 where I make new analytical models and test them with computer simulations.
-My work uses fluid models of plasma (MHD) to study the resistive tearing instability.
+My work uses fluid models of plasma (MHD) to study the resistive tearing instability under novel but realistic flow profiles.
 
 * 🌍  I'm based in Auburn, Alabama
 * ✉️  You can contact me at [belster@auburn.edu](mailto:belster@auburn.edu)
-* 🧠  I'm learning ODE & PDE solving techniques (Finite Difference, Spectral, PINNs), GPU-based code (CUDA)
-* 🤝  I'm open to collaborating on both high-level (Python, Mojo, Julia, R) and low-level (Rust) scientific computing projects
+* 🧠  I'm learning ODE, DAE, and PDE solving techniques (Finite Difference/Element, Pseudospectral), GPU-paralellized code (CUDA)
+* 📈  My passion lies in asymptotic & perturbation methods, bridging theory and computation.
+* 🤝  I'm open to collaborating on both high-level (Python, Julia, R, Mojo) and low-level (Rust) scientific computing projects
 
-Learn more about me and what I do [here](https://bradyelster.github.io/) on my personal webpage.
+I document my journey in learning data structures & algorithms on [LeetCode](https://leetcode.com/), and post about my own physics ideas, on my [blog](https://bradyelster.github.io/).
 
 ### LeetCode
 <img src="https://leetcard.jacoblin.cool/belster12?theme=light&font=Lato&ext=contest" alt="LeetCode Stats" width="350"/>
