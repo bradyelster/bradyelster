@@ -11,7 +11,7 @@ My work uses fluid models of plasma (MHD) to study the resistive tearing instabi
 * ✉️  You can contact me at [belster@auburn.edu](mailto:belster@auburn.edu)
 * 🧠  I'm learning ODE, DAE, and PDE solving techniques (Finite Difference/Element, Pseudospectral), GPU-paralellized code (CUDA)
 * 📈  My passion lies in asymptotic & perturbation methods, bridging theory and computation.
-* 🤝  I'm open to collaborating on both high-level (Python, Julia, R, Mojo) and low-level (Rust) scientific computing projects
+* 🤝  I'm open to collaborating on both high-level (Python, Julia, R) and low-level (Fortran, Rust) scientific computing projects
 
 I document my journey in learning data structures & algorithms on [LeetCode](https://leetcode.com/), and post about my own physics ideas, on my [blog](https://bradyelster.github.io/).
 
