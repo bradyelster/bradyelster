@@ -14,7 +14,7 @@ My work uses fluid models of plasma (MHD) to study the resistive tearing instabi
 * 🤝  I'm open to collaborating on both high-level (Python, Julia, R) and low-level (Fortran, Rust) scientific computing projects
 
 I document my journey in learning data structures & algorithms on [LeetCode](https://leetcode.com/), and post about my own physics ideas, on my [blog](https://bradyelster.github.io/). 
-When I'm super bored, I even answer questions on [Math Stack Exchange](https://math.stackexchange.com/users/1300996/brady).
+When I'm super bored, I even answer questions on [Math Stack Exchange](https://math.stackexchange.com/users/brady).
 
 ### LeetCode
 <img src="https://leetcard.jacoblin.cool/belster12?theme=light&font=Lato&ext=contest" alt="LeetCode Stats" width="350"/>
